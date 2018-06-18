@@ -1,4 +1,6 @@
-# Code-of-conduct
+# CodeOps Community
+
+# Code of conduct
 CodeOps Code of Conduct
 
 *Last Updated: 18-06-18*
